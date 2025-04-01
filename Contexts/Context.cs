@@ -32,7 +32,7 @@ namespace webapi.event_.Contexts
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=ROQUE; Database=event; Integrated Security=True; TrustServerCertificate=true;");
+                optionsBuilder.UseSqlServer("Server = NOTE28-S28\\SQLEXPRESS; Database=EventPlus; User Id = sa; Pwd = Senai@134; TrustServerCertificate=true;");
             }
         }
     }
