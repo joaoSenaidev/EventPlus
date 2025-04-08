@@ -28,7 +28,7 @@ namespace webapi.event_.Domains
 
         //referência para a entidade TiposUsuarios
         [Required(ErrorMessage = "O tipo do usuário é obrigatório!")]
-        public Guid IdTipoUsuario { get; set; }
+        public Guid IdTipoUsuario { get; set; } 
 
         [ForeignKey("IdTipoUsuario")]
         public TiposUsuarios? TipoUsuario { get; set; }

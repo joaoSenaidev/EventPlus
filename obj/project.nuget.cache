@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Jy2q39rWJ1c=",
+  "dgSpecHash": "j5B/Qac/AXM=",
   "success": true,
   "projectFilePath": "C:\\Users\\52529661847\\Desktop\\Event_Plus\\webapi.event+.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\52529661847\\.nuget\\packages\\azure.ai.contentsafety\\1.0.0\\azure.ai.contentsafety.1.0.0.nupkg.sha512",
     "C:\\Users\\52529661847\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\52529661847\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\52529661847\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
